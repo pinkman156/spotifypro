@@ -3,6 +3,8 @@
   flex-direction: column;
   /* height: 30%; */
   width: 100%;
+
+  /* overflow-x: scroll; */
   /* background-color: white; */
   justify-content: space-around;
 }
