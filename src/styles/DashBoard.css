@@ -1,0 +1,14 @@
+.stats {
+  display: flex;
+  flex-direction: column;
+  /* height: 30%; */
+  width: 100%;
+  /* background-color: white; */
+  justify-content: space-around;
+}
+
+.cards {
+  display: flex;
+
+  justify-content: space-around;
+}
